@@ -1,4 +1,4 @@
-cuda-python==11.0
+cuda-python
 pytorch==1.7.0
 torchvision==0.8.1
 numpy==1.19.2
